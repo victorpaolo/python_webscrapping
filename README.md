@@ -8,4 +8,4 @@ The code is dedicated to get data from any webpage in order to read the text and
 - Beautiful Soup
 - Counter
 - Sys
-- urllib
+- Urllib
